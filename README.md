@@ -44,7 +44,7 @@
 - Find Subdomains
 - Check for active subdomains
 - Check for information disclosure
-- Get whoisinformation.
+- Get whois information.
 - Get Subdomains from multiple resources
 - Dump URLs from sitemap.xml
 - Find Hidden Servers and/or Admin Panels
